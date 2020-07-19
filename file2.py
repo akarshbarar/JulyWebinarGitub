@@ -1,2 +1,1 @@
-xfnxfgjxfgjxgit 
-;jhva;kdhaksdjlhvak
+print("Hello World from file 2")
