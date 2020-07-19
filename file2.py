@@ -3,3 +3,5 @@ def func():
     print("INside Function")
 
 func()
+
+print("hii")
